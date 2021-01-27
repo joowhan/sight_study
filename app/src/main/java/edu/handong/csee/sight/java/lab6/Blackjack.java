@@ -41,7 +41,7 @@ public class Blackjack {
 		
 		System.out.println(result);
 		
-		
+	
 	
 	}
 	
